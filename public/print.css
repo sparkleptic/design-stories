@@ -1,0 +1,30 @@
+.CaseStudy .panel-header {
+
+  background-color : #E21A6B;
+  display: none;
+  
+}
+.CaseStudy{
+  margin : auto;
+  
+}
+.CaseStudy .processBlocksContainer {
+  height: auto !important;
+  overflow: unset !important;
+}
+.hero, .footer, .ResearchAndMethodology,  .DesignProcess, .app-area, .helperText{
+
+display: none;
+}
+.modal-content, .modal, .download-modal,  .modal-body {
+  display: none;
+}
+.modal-backdrop{
+  display: none;
+}
+
+.modal-content {
+  display: unset;
+}
+
+
